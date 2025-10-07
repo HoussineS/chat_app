@@ -50,4 +50,5 @@ app.*.map.json
 /supabase/functions/sevvice_account.json
 # Secrets
 lib/firebase_options.dart
+supabase/functions/service_account.json
 .env
