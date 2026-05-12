@@ -39,7 +39,7 @@
 Follow these steps to run the project locally 👇
 
 ### 🧱 Prerequisites
-- Flutter SDK installed (`>=3.x`)
+- Flutter SDK installed (`>=3`)
 - Supabase project created
 - Firebase project for FCM configured
 
@@ -62,33 +62,6 @@ Follow these steps to run the project locally 👇
 ---
 
 
----
 
-## 🧠 Future Improvements
-- Group chat functionality  
-- Voice & video messages  
-- Dark mode  
-- Message reactions & read receipts  
-
----
-
-## 🤝 Contributing
-
-Contributions are welcome!  
-Please fork the repo and create a pull request with a clear description of your changes.
-
-```bash
-git checkout -b feature/your-feature
-git commit -m "Add amazing feature"
-git push origin feature/your-feature
-```
-
----
-
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
 
 ### 🌟 If you like this project, give it a star on GitHub!
